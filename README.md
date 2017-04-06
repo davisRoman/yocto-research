@@ -19,6 +19,7 @@ Num |                                  Video                                    
 --- | --------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
 1   | Using SWUpdate to Upgrade Your System - Gabriel Huau, Witekio                                     | [video](https://www.youtube.com/watch?v=ePRTTfGJUI4)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/ELC2017_SWUpdate.pdf)
 2   | Software Update for IoT: The Current State of Play                                                | [video](https://www.youtube.com/watch?v=GZGnBK2NycI)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/software-update-elce-2016-169.pdf)
+3   | Comparison of Linux Software Update Technologies                                                  | [video](https://www.youtube.com/watch?v=pdHV9H9nZks)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Comparison%20of%20Linux%20Software%20Update%20Technologies_0.pdf)
 
 
 # Misc

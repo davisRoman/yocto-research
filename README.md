@@ -13,14 +13,6 @@ Num |                                  Video                                    
 8   | Easier Yocto Upgrades in the Development Environment - Michael Brown, Dell EMC                    | [video](https://www.youtube.com/watch?v=F5R8VXnfwYw)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Yocto-upgrades-ELC-2017.pdf)
 9   | Isar: Build Debian-Based Products with BitBake                                                    | [video](https://www.youtube.com/watch?v=GHHOxrtYBMc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/isar-elce-2016_0.pdf)
 
-
-# Misc
-
-Num |                                  Video                                                            |                                                         youtube                                         | slides
---- | --------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
-1   | What Small Teams Should Know when Building Embedded Linux Systems - Gregory Fong, Virgin Galactic | [video](https://www.youtube.com/watch?v=W-E-DxWA4gc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/elc2017-small_teams_embedded_linux-gregory_fong.pdf)
-
-
 # OTA updates
 
 Num |                                  Video                                                            |                                                         youtube                                         | slides
@@ -28,4 +20,9 @@ Num |                                  Video                                    
 1   | Using SWUpdate to Upgrade Your System - Gabriel Huau, Witekio                                     | [video](https://www.youtube.com/watch?v=ePRTTfGJUI4)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/ELC2017_SWUpdate.pdf)
 
 
+# Misc
+
+Num |                                  Video                                                            |                                                         youtube                                         | slides
+--- | --------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
+1   | What Small Teams Should Know when Building Embedded Linux Systems - Gregory Fong, Virgin Galactic | [video](https://www.youtube.com/watch?v=W-E-DxWA4gc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/elc2017-small_teams_embedded_linux-gregory_fong.pdf)
 

@@ -12,7 +12,7 @@ Num |                                  Video                                    
 5   | Yocto Project Extensible SDK: Simplifying the Workflow for Application Developers - Henry Bruce  | [video](https://www.youtube.com/watch?v=d3xanDJuXRA)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/2017%20ELC%20Henry%20Bruce.pdf)
 6   | Cross Platform Enablement for the Yocto Project with Containers - Randy Witt, Intel              | [video](https://www.youtube.com/watch?v=JXHLAWveh7Y)                                                    | [slides](https://events.linuxfoundation.org/sites/events/files/slides/2017%20ELC%20-%20Yocto%20Project%20Containers.pdf)
 7   | Using the Yocto Autobuilder for Build and Release Management - Jate Sujjavanich, Syntech Systems | [video](https://www.youtube.com/watch?v=noU-A0iqIZY)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/ELC%202017%20-%20YAB%20BRM.pdf)
-
+8   | Easier Yocto Upgrades in the Development Environment - Michael Brown, Dell EMC                   | [video](https://www.youtube.com/watch?v=F5R8VXnfwYw)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Yocto-upgrades-ELC-2017.pdf)
 
 
 

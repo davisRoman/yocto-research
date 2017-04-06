@@ -18,12 +18,12 @@ Num |                                  Video                                    
 Num |                                  Video                                                            |                                                         youtube                                         | slides
 --- | --------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
 1   | Using SWUpdate to Upgrade Your System - Gabriel Huau, Witekio                                     | [video](https://www.youtube.com/watch?v=ePRTTfGJUI4)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/ELC2017_SWUpdate.pdf)
-2   | Using SWUpdate to Upgrade Your System - Gabriel Huau, Witekio                                     | [video](https://www.youtube.com/watch?v=GZGnBK2NycI)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/software-update-elce-2016-169.pdf)
+2   | Software Update for IoT: The Current State of Play                                                | [video](https://www.youtube.com/watch?v=GZGnBK2NycI)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/software-update-elce-2016-169.pdf)
 
 
 # Misc
 
 Num |                                  Video                                                            |                                                         youtube                                         | slides
 --- | --------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
-1   | Software Update for IoT: The Current State of Play                                                | [video](https://www.youtube.com/watch?v=W-E-DxWA4gc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/elc2017-small_teams_embedded_linux-gregory_fong.pdf)
+1   | What Small Teams Should Know when Building Embedded Linux Systems - Gregory Fong, Virgin Galactic | [video](https://www.youtube.com/watch?v=W-E-DxWA4gc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/elc2017-small_teams_embedded_linux-gregory_fong.pdf)
 

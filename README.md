@@ -12,7 +12,13 @@ Num |                                  Video                                    
 7   | Using the Yocto Autobuilder for Build and Release Management - Jate Sujjavanich, Syntech Systems  | [video](https://www.youtube.com/watch?v=noU-A0iqIZY)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/ELC%202017%20-%20YAB%20BRM.pdf)
 8   | Easier Yocto Upgrades in the Development Environment - Michael Brown, Dell EMC                    | [video](https://www.youtube.com/watch?v=F5R8VXnfwYw)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Yocto-upgrades-ELC-2017.pdf)
 9   | Isar: Build Debian-Based Products with BitBake                                                    | [video](https://www.youtube.com/watch?v=GHHOxrtYBMc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/isar-elce-2016_0.pdf)
-10  | What Small Teams Should Know when Building Embedded Linux Systems - Gregory Fong, Virgin Galactic | [video](https://www.youtube.com/watch?v=W-E-DxWA4gc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/elc2017-small_teams_embedded_linux-gregory_fong.pdf)
+
+
+# Misc
+
+Num |                                  Video                                                            |                                                         youtube                                         | slides
+--- | --------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
+1   | What Small Teams Should Know when Building Embedded Linux Systems - Gregory Fong, Virgin Galactic | [video](https://www.youtube.com/watch?v=W-E-DxWA4gc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/elc2017-small_teams_embedded_linux-gregory_fong.pdf)
 
 
 

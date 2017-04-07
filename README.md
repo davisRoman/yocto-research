@@ -25,8 +25,6 @@ Num |                                  Video                                    
 
 
 
-
-OSS Remote Firmware Updates for IoT-like Projects
 # Misc
 
 Num |                                  Video                                                            |                                                         youtube                                         | slides

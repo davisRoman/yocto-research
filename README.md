@@ -21,8 +21,12 @@ Num |                                  Video                                    
 2   | Software Update for IoT: The Current State of Play                                                | [video](https://www.youtube.com/watch?v=GZGnBK2NycI)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/software-update-elce-2016-169.pdf)
 3   | Comparison of Linux Software Update Technologies                                                  | [video](https://www.youtube.com/watch?v=pdHV9H9nZks)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Comparison%20of%20Linux%20Software%20Update%20Technologies_0.pdf)
 4   | Generic System for Safe Rootfs/Kernel Upgrades without Single-Point of Failures                   | [video](https://www.youtube.com/watch?v=pdHV9H9nZks)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Comparison%20of%20Linux%20Software%20Update%20Technologies_0.pdf)
+5   | OSS Remote Firmware Updates for IoT-like Projects                                                 | [video](https://www.youtube.com/watch?v=vVS-ZRNE0Lc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/OSS_Remote_Firmware_Updates_for_IoT-like_Projects.pdf)
 
 
+
+
+OSS Remote Firmware Updates for IoT-like Projects
 # Misc
 
 Num |                                  Video                                                            |                                                         youtube                                         | slides

@@ -44,3 +44,6 @@ Num |                                  Video                                    
 8   | Forward Porting Google Nexus 5X / 6P - Lessons from the Trenches and What's Next - Jeremy McNicoll | [video](https://www.youtube.com/watch?v=77tuFtM4gjA)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/JRM_NEXUS_ELC_2017.pdf)
 9   | Making an Amazon Echo Compatible Linux System - Michael E Anderson, The PTR Group, Inc.            | [video](https://www.youtube.com/watch?v=v7cnNauG9VY)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Echo_Compatible_Linux_Device_Anderson.pdf)
 
+
+useful links: 
+http://elinux.org

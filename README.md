@@ -48,8 +48,9 @@ Num |                                  Video                                    
 
 Num |                                  Video                                                             |                                                         youtube                                         | slides
 --- | ---------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
-1   | Approaches to Ultra-Long Software Maintenance                                                       | [video](https://www.youtube.com/watch?v=SAbrQqSC61M)                                                 | [slides](http://events.linuxfoundation.org/sites/events/files/slides/talk_8.pdf)
-
+1   | Approaches to Ultra-Long Software Maintenance                                                      | [video](https://www.youtube.com/watch?v=SAbrQqSC61M)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/talk_8.pdf)
+2   | Long-Term Maintenance, or How to (Mis-)Manage Embedded Systems for 10+ Years                       | [video](https://www.youtube.com/watch?v=SAbrQqSC61M)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/talk_8.pdf)
+3   | Socio-Technical Aspects of Long Term Embedded Systems Maintenance by Wolfgang Mauerer              | [video](https://www.youtube.com/watch?v=SAbrQqSC61M)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/talk_8.pdf)
 
 useful links: 
 http://elinux.org

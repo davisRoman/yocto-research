@@ -45,5 +45,12 @@ Num |                                  Video                                    
 9   | Making an Amazon Echo Compatible Linux System - Michael E Anderson, The PTR Group, Inc.            | [video](https://www.youtube.com/watch?v=v7cnNauG9VY)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Echo_Compatible_Linux_Device_Anderson.pdf)
 
 
+# Industrial
+
+Num |                                  Video                                                             |                                                         youtube                                         | slides
+--- | ---------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
+1   | Approaches to Ultra-Long Software Maintenance                                                       | [video](https://www.youtube.com/watch?v=SAbrQqSC61M)                                                 | [slides](http://events.linuxfoundation.org/sites/events/files/slides/talk_8.pdf)
+
+
 useful links: 
 http://elinux.org

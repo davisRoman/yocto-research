@@ -54,5 +54,11 @@ Num |                                  Video                                    
 2   | Long-Term Maintenance, or How to (Mis-)Manage Embedded Systems for 10+ Years                       | [video](https://www.youtube.com/watch?v=SAbrQqSC61M)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/talk_8.pdf)
 3   | Socio-Technical Aspects of Long Term Embedded Systems Maintenance by Wolfgang Mauerer              | [video](https://www.youtube.com/watch?v=SAbrQqSC61M)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/talk_8.pdf)
 
+# Zephyr
+
+Num |                                  Video                                                             |                                                         youtube                                         | slides
+--- | ---------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
+1   | War Story: Using Zephyr Project to Develop a Wearable Device - Fabien Parent, BayLibre             | [video](https://www.youtube.com/watch?v=XUJK2htXxKw)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/ELC17%20-%20War%20Story-%20Using%20Zephyr%20to%20Develop%20a%20Wearable%20Device_0.pdf)
+
 useful links: 
 http://elinux.org

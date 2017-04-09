@@ -62,6 +62,9 @@ Num |                                  Video                                    
 2   | Linux+Zephyr: IoT Made Easy                                                                        | [video](https://www.youtube.com/watch?v=gzgNqQ4iuis)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Linux%2BZephyr-IoT.pdf)
 3   | Creating Bluetooth-based IoT Solutions with Zephyr Project - Johan Hedberg, Intel                  | [video](https://www.youtube.com/watch?v=8hOf_ppbJaM)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Zephyr-Bluetooth_0.pdf)
 4   | Fun with Zephyr Project and BBC micro:bit - Marcel Holtmann, Open Source Technology Center, Intel  | [video](https://www.youtube.com/watch?v=ZZRbIpVJGns)                                                    | 
+5   | Zephyr Project on Beetle - Vincenzo Frascino, ARM LTD                                              | [video](https://www.youtube.com/watch?v=DP9YAgDMRxw)                                                    | 
+
+
 
 
 useful links: 

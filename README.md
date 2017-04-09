@@ -61,7 +61,7 @@ Num |                                  Video                                    
 1   | War Story: Using Zephyr Project to Develop a Wearable Device - Fabien Parent, BayLibre             | [video](https://www.youtube.com/watch?v=XUJK2htXxKw)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/ELC17%20-%20War%20Story-%20Using%20Zephyr%20to%20Develop%20a%20Wearable%20Device_0.pdf)
 2   | Linux+Zephyr: IoT Made Easy                                                                        | [video](https://www.youtube.com/watch?v=gzgNqQ4iuis)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Linux%2BZephyr-IoT.pdf)
 3   | Creating Bluetooth-based IoT Solutions with Zephyr Project - Johan Hedberg, Intel                  | [video](https://www.youtube.com/watch?v=8hOf_ppbJaM)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Zephyr-Bluetooth_0.pdf)
-
+4   | Fun with Zephyr Project and BBC micro:bit - Marcel Holtmann, Open Source Technology Center, Intel  | [video](https://www.youtube.com/watch?v=ZZRbIpVJGns)                                                    | 
 
 
 useful links: 

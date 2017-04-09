@@ -59,6 +59,7 @@ Num |                                  Video                                    
 Num |                                  Video                                                             |                                                         youtube                                         | slides
 --- | ---------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
 1   | War Story: Using Zephyr Project to Develop a Wearable Device - Fabien Parent, BayLibre             | [video](https://www.youtube.com/watch?v=XUJK2htXxKw)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/ELC17%20-%20War%20Story-%20Using%20Zephyr%20to%20Develop%20a%20Wearable%20Device_0.pdf)
+2   | Linux+Zephyr: IoT Made Easy                                                                        | [video](https://www.youtube.com/watch?v=gzgNqQ4iuis)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Linux%2BZephyr-IoT.pdf)
 
 useful links: 
 http://elinux.org

@@ -43,6 +43,7 @@ Num |                                  Video                                    
 7   | Forward Porting Google Nexus 5X / 6P - Lessons from the Trenches and What's Next - Jeremy McNicoll | [video](https://www.youtube.com/watch?v=77tuFtM4gjA)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/JRM_NEXUS_ELC_2017.pdf)
 8   | Making an Amazon Echo Compatible Linux System - Michael E Anderson, The PTR Group, Inc.            | [video](https://www.youtube.com/watch?v=v7cnNauG9VY)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Echo_Compatible_Linux_Device_Anderson.pdf)
 9   | Anatomy of Cross-Compilation Toolchains                                                            | [video](https://www.youtube.com/watch?v=Pbt330zuNPc)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/petazzoni-toolchain-anatomy.pdf)
+10  | A tour of the ARM architecture and its Linux support                                               | [video](https://www.youtube.com/watch?v=NNol7fRGo2E)                                                    | [slides](http://free-electrons.com/pub/conferences/2017/lca/petazzoni-arm-introduction/petazzoni-arm-introduction.pdf)
 
 
 # Industrial

@@ -3,6 +3,7 @@
 Num |                                  Video                                                            |                                                         youtube                                         | slides
 --- | --------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
 1   | Introduction to Realtime Linux                                                                    | [video](https://www.youtube.com/watch?v=BKkX9WASfpI)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/praesentation_1.pdf)
+2   |ELC 2015 - Real Time Linux Scheduling Performance Comparison - Vince Bridgers, Altera              | [video](https://www.youtube.com/watch?v=0C0fAbSwJXg)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/Real-Time-Linux-Comparison-Bridgers-ELC2015.pdf)
 
 
 # yocto-research

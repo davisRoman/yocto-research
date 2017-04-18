@@ -1,3 +1,10 @@
+# Real-time linux
+
+Num |                                  Video                                                            |                                                         youtube                                         | slides
+--- | --------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
+1   | Introduction to Realtime Linux                                                                    | [video](https://www.youtube.com/watch?v=nDcF8gEpj5k)                                                    | [slides](http://events.linuxfoundation.org/sites/events/files/slides/praesentation_1.pdf)
+
+
 # yocto-research
 
 
